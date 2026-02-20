@@ -17,7 +17,7 @@ Over the optics (at the left side of the schematic) you can place any kind of su
 
 ROADMAP:
 
-1. FIND A HIGH RESOLUTION MICRODISPLAY THAT FITS THE DESIGN. ✅ done (the resolution could ve better but I still believe in finding a better one in the future).
+1. FIND A HIGH RESOLUTION MICRODISPLAY THAT FITS THE DESIGN. ✅ done (the resolution could be better but I still believe in finding a better one in the future).
    
 2. CREATE A 3D PRINTABLE MODEL OF THE CASE FOR THE OPTICS (TO PLACE THE DISPLAY, LENS AND MIRROR IN IT AND HIDE ANY CABLE).
 3. CREATE A 3D GLASSES FRAME MODEL FOR THE OPTICS TO SIT ON YOUR FACE.
