@@ -14,7 +14,8 @@ List of products to build the project:
 
 • The microdisplay is this one: 
  
-Pantalla AMOLED DO0200FS01, 1,91 pulgadas, 240x536, SPI, QSPI, I8080, STM32, ESP32, código LVGL, módulo LCD esquemático de circuito
+AMOLED DO0200FS01, 1,91 inches, 240x536, SPI, QSPI, I8080, STM32, ESP32,LVGL code, LCD module.
+
 https://a.aliexpress.com/_EvtKkqk
 or any microdisplay with 4cm x 2cm screen size aproximately.
 
