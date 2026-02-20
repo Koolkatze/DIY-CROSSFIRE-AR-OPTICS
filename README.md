@@ -3,7 +3,7 @@ AR Optics can be made at home cheap and easy. I will use the highest F.O.V. you 
 
 List of products to build the project:
 
-• The "LENS" is nothing but a transparent 6,50cm diameter christmas ball cut to 4,50cm diameter circle with a mini rotative electric saw.
+• The "LENS" is nothing but a transparent 6,50cm diameter christmas ball cut to 4,50cm diameter circle with a mini rotative electric saw or could also be same size transparent glass bulb cut with an electrically heated metal wire and placed under cold water to break evenly.
 
 • The "MIRROR" is nothing but any plane shiny transparent plastic or a semi-translucent mirrortat covers from the top of the display from the top to the bottom of the display from the bottom.
 
