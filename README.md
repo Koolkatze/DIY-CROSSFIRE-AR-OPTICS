@@ -14,9 +14,8 @@ List of products to build the project:
 
 • The microdisplay is this one: 
  
-AMOLED DO0200FS01, 1,91 inches, 240x536, SPI, QSPI, I8080, STM32, ESP32,LVGL code, LCD module.
+AMOLED DO0200FS01, 1,91 inches, 240x536, SPI, QSPI, I8080, STM32, ESP32,LVGL code, LCD module: https://a.aliexpress.com/_EvtKkqk
 
-https://a.aliexpress.com/_EvtKkqk
 or any microdisplay with 4cm x 2cm screen size aproximately.
 
 Over the optics (at the left side of the schematic) you can place any kind of sunglass lens or fotochromatic lens (this is not specified yet but I will make the glasses frames compatible with other generic glasses to make it universally customizable).
