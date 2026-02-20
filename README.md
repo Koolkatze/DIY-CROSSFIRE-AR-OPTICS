@@ -1,4 +1,4 @@
-AR Optics can be made at home chesp and easy. I will use the highest F.O.V. and DOUBLE MICRODISPLAY for this one.
+AR Optics can be made at home cheqp and easy. I will use the highest F.O.V. and DOUBLE MICRODISPLAY for this one.
 <img width="696" height="949" alt="38611" src="https://github.com/user-attachments/assets/7bc6f5ac-6082-425d-bdf1-2d95fdf9348f" />
 
 List of products to build the project:
