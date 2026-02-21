@@ -8,7 +8,7 @@ Experiment under your own financial risk.
 
 List of products to build the project:
 
-• The "LENS" is nothing but a transparent 6,50cm diameter christmas ball cut to 4,50cm diameter circle with a mini rotative electric saw or could also be same size transparent glass bulb cut with an electrically heated metal wire and placed under cold water to break evenly.
+• The "LENS" is nothing but a transparent 6cm, 8cm, or 9cm diameter christmas ball (the focal point of the sphere is allways at its center so depending in which distance you would like to wear the glasses from the lens to the eyes you will want to choose one of them all, remember: the lens will always need to be stuck ti the left limit of the diagram, that way you won't change the distance and angle of reflection, if you moved the lens to the right of the diagram for what ever reason you would overlap the images of the display) afterwards cut to 4,50cm diameter circle with a mini rotative electric saw or could also be same size transparent glass bulb cut with an electrically heated metal wire and placed under cold water to break evenly.
 
 • The "MIRROR" is nothing but any plane shiny transparent plastic or a semi-translucent mirror that covers from the top of the display from the top to the bottom of the display from the bottom.
 
