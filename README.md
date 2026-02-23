@@ -16,23 +16,19 @@ https://youtu.be/RjcmGEFi_NQ?si=239pzAycqYcrppN9
 
 • The microdisplay is this one: 
  
-AMOLED DO0200FS01, 1,91 inches, 240x536, SPI, QSPI, I8080, STM32, ESP32,LVGL code, LCD module: https://a.aliexpress.com/_EvtKkqk
+https://www.alibaba.com/product-detail/1-1-Inch-High-Resolution-Bar_1601580211595.html?spm=a2700.galleryofferlist.normal_offer.d_title.697913a01LHWSC&priceId=52afbaf441e749009b5a6feb538b42e2
 
-or any microdisplay with 4cm x 2cm screen size aproximately.
+or any microdisplay with 2.5cm x 1cm screen size aproximately.
 
 Over the optics (at the left side of the schematic) you can place any kind of sunglass lens or fotochromatic lens (this is not specified yet but I will make the glasses frames compatible with other generic glasses to make it universally customizable).
 
 ROADMAP:
 
-1. FIND A HIGH RESOLUTION MICRODISPLAY THAT FITS THE DESIGN. ✅ done (the resolution could be better but I still believe in finding a better one in the future).
+1. FIND A HIGH RESOLUTION MICRODISPLAY THAT FITS THE DESIGN. ✅ done (FOUND THE BEST RESOLUTION).
    
 2. CREATE A 3D PRINTABLE MODEL OF THE CASE FOR THE OPTICS (TO PLACE THE DISPLAY, LENS AND MIRROR IN IT AND HIDE ANY CABLE).
 
-W.I.P.
-
-![38903](https://github.com/user-attachments/assets/f30b212b-27f0-4e3d-a297-fa98a931d53b)
-
-4. CREATE A 3D GLASSES FRAME MODEL FOR THE OPTICS TO SIT ON YOUR FACE.
-5. WE WILL HAVE TO DECIDE IF THEY WILL BE STANDALONE OR TETHERED AND TREAT THE SOFTWARE AS WE NEED.
-6. CREATE AN EXTERNAL SOLUTION FOR BATTERY CAPACITY, TO TRY AND EXTEND BATTERY DURING LONG PERIODS OF TIME WHILE IN USE.
-7. CREATE DIFFERENT DESIGNS FOR FASHIONABLE AR GLASSES.
+3. CREATE A 3D GLASSES FRAME MODEL FOR THE OPTICS TO SIT ON YOUR FACE.
+4. WE WILL HAVE TO DECIDE IF THEY WILL BE STANDALONE OR TETHERED AND TREAT THE SOFTWARE AS WE NEED.
+5. CREATE AN EXTERNAL SOLUTION FOR BATTERY CAPACITY, TO TRY AND EXTEND BATTERY DURING LONG PERIODS OF TIME WHILE IN USE.
+6. CREATE DIFFERENT DESIGNS FOR FASHIONABLE AR GLASSES.
