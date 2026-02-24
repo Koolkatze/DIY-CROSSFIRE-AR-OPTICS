@@ -12,6 +12,10 @@ List of products to build the project:
 
 https://youtu.be/RjcmGEFi_NQ?si=239pzAycqYcrppN9
 
+This is the type of christmas ball: https://es.aliexpress.com/item/1005007494654928.html?spm=a2g0o.productlist.main.11.74d5GHj1GHj1ru&algo_pvid=94ba693f-28a0-4506-ac77-2f596d9118a6&algo_exp_id=94ba693f-28a0-4506-ac77-2f596d9118a6-10&pdp_ext_f=%7B%22order%22%3A%2227%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21EUR%211.59%211.59%21%21%211.83%211.83%21%4021038e6617719419688692848e3321%2112000044592659945%21sea%21ES%213907980870%21X%211%210%21n_tag%3A-29919%3Bd%3Af6debfdc%3Bm03_new_user%3A-29895&curPageLogUid=5AtHR3SCXgeY&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007494654928%7C_p_origin_prod%3A
+
+If you find a bulb with the same diameter, tell me, I want to add the option here.
+
 You will need to cut the upper an bottom part of the 4,50cm circle, the measure between top and bottom is 2,5cm
 
 It could be necessary to use some kind of glue, it's be best to use double grip tape to stick it to the holder.
