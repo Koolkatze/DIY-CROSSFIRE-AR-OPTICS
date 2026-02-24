@@ -44,6 +44,8 @@ https://github.com/Koolkatze/DIY-CROSSFIRE-AR-OPTICS/blob/main/3D%20PRINTABLE%20
 
 https://github.com/Koolkatze/DIY-CROSSFIRE-AR-OPTICS/blob/main/3D%20Printable%20FRAME%20CROSSFIRE%20DIY%20OPTICS.stl
 
+• The optics rear protector, it can be any transparent material, a glass, cut by WIDTH 4,6cm X HEIGHT 5,1cm and rounded by the corners.
+
 • The "TEMPLES" are 3D printed and hold th electronics of the project, for now it's a work in progress.
 
 
