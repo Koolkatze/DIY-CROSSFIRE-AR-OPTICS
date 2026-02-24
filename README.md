@@ -12,6 +12,10 @@ List of products to build the project:
 
 https://youtu.be/RjcmGEFi_NQ?si=239pzAycqYcrppN9
 
+• SUNGLASS OPTICS PROTECTOR AND EXTERNAL LIGHT DIMMER:
+
+https://www.aliexpress.com/p/tesla-landing/index.html?scenario=c_ppc_item_bridge&productId=1005003310616806&_immersiveMode=true&withMainCard=true&src=google&aff_platform=true&isdl=y&src=google&albch=shopping&acnt=439-079-4345&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&&albagn=888888&&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=es1005003310616806&ds_e_product_merchant_id=109367859&ds_e_product_country=ES&ds_e_product_language=es&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=21853428933&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=21853430043&gbraid=0AAAAACbpfvaWHlRZ_zBFrA5tYuxVPyeyF&gclid=Cj0KCQiAtfXMBhDzARIsAJ0jp3AHmM_JLUO1DJfEEb6c-dsZ-XLCHt6ay3dpdYcw2MYgSe6Cv_u7Ys8aAodBEALw_wcB
+
 • The "MIRROR" is nothing but any plane shiny transparent plastic or a semi-translucent mirror that covers from the top of the display from the top to the bottom of the display from the bottom.
 
 • The microdisplay is this one: 
@@ -26,7 +30,7 @@ ROADMAP:
 
 1. FIND A HIGH RESOLUTION MICRODISPLAY THAT FITS THE DESIGN. ✅ done (FOUND THE BEST RESOLUTION).
    
-2. CREATE A 3D PRINTABLE MODEL OF THE CASE FOR THE OPTICS (TO PLACE THE DISPLAY, LENS AND MIRROR IN IT AND HIDE ANY CABLE).
+2. CREATE A 3D PRINTABLE MODEL OF THE CASE FOR THE OPTICS (TO PLACE THE DISPLAY, LENS AND MIRROR IN IT AND HIDE ANY CABLE). ✅ done
 
 3. CREATE A 3D GLASSES FRAME MODEL FOR THE OPTICS TO SIT ON YOUR FACE.
 4. WE WILL HAVE TO DECIDE IF THEY WILL BE STANDALONE OR TETHERED AND TREAT THE SOFTWARE AS WE NEED.
