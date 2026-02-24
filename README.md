@@ -38,6 +38,8 @@ https://www.alibaba.com/product-detail/1-1-Inch-High-Resolution-Bar_160158021159
 
 • The "OPTICS HOLDER", a 3D Printed model that holds the optics when you press the holder inside the frames of the glasses.
 
+https://github.com/Koolkatze/DIY-CROSSFIRE-AR-OPTICS/blob/main/3D%20PRINTABLE%20CROSSFIRE%20DIY%20OPTICS%20CASE.stl
+
 • The "FRAME" is a 3D printable model able to hold the optics holder and the optics stuck by applying pressure. 
 
 https://github.com/Koolkatze/DIY-CROSSFIRE-AR-OPTICS/blob/main/3D%20Printable%20FRAME%20CROSSFIRE%20DIY%20OPTICS.stl
