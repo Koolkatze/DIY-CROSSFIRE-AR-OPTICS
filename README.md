@@ -8,13 +8,21 @@ Experiment under your own financial risk.
 
 List of products to build the project:
 
-• The "LENS" is nothing but a transparent 6cm, 8cm, or 9cm diameter christmas ball (the focal point of the sphere is allways at its center so depending in which distance you would like to wear the glasses from the lens to the eyes you will want to choose one of them all, the best diameter afterall could be 9cm, remember: the lens will always need to be stuck ti the left limit of the diagram, that way you won't change the distance and angle of reflection, if you moved the lens to the right of the diagram for what ever reason you would overlap the images of the display) afterwards cut to 4,50cm diameter circle with a mini rotative electric saw or could also be same size transparent glass bulb cut with an electrically or gas heated metal wire and placed under cold water to break evenly asi in the following video:
+• The "LENS" is nothing but a transparent 6cm, 8cm, or 9cm diameter christmas ball (the focal point of the sphere is allways at its center so depending in which distance you would like to wear the glasses from the lens to the eyes you will want to choose one of them all, the best diameter afterall could be 9cm, remember: the lens will always need to be stuck ti the left limit of the diagram, that way you won't change the distance and angle of reflection, if you moved the lens to the right of the diagram for what ever reason you would overlap the images of the display) afterwards cut to 4,50cm diameter circle with a mini rotative electric saw or could also be same size transparent glass bulb cut with an electrically or gas heated metal wire and placed under cold water to break evenly as in the following video:
 
 https://youtu.be/RjcmGEFi_NQ?si=239pzAycqYcrppN9
+
+You will need to cut the upper an bottom part of the 4,50cm circle, the measure between top and bottom is 2,5cm
+
+It could be necessary to use some kind of glue, it's be best to use double grip tape to stick it to the holder.
 
 • SUNGLASS OPTICS PROTECTOR AND EXTERNAL LIGHT DIMMER:
 
 https://www.aliexpress.com/p/tesla-landing/index.html?scenario=c_ppc_item_bridge&productId=1005003310616806&_immersiveMode=true&withMainCard=true&src=google&aff_platform=true&isdl=y&src=google&albch=shopping&acnt=439-079-4345&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&&albagn=888888&&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=es1005003310616806&ds_e_product_merchant_id=109367859&ds_e_product_country=ES&ds_e_product_language=es&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=21853428933&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=21853430043&gbraid=0AAAAACbpfvaWHlRZ_zBFrA5tYuxVPyeyF&gclid=Cj0KCQiAtfXMBhDzARIsAJ0jp3AHmM_JLUO1DJfEEb6c-dsZ-XLCHt6ay3dpdYcw2MYgSe6Cv_u7Ys8aAodBEALw_wcB
+
+You will need to cut the lens to a WIDTH: 3,4cm, HEIGHT: 1,4cm.
+
+It could be necessary to use some kind of glue, it's be best to use double grip tape to stick it to the holder.
 
 • The "MIRROR" is nothing but any plane shiny transparent plastic or a semi-translucent mirror that covers from the top of the display from the top to the bottom of the display from the bottom.
 
@@ -22,9 +30,8 @@ https://www.aliexpress.com/p/tesla-landing/index.html?scenario=c_ppc_item_bridge
  
 https://www.alibaba.com/product-detail/1-1-Inch-High-Resolution-Bar_1601580211595.html?spm=a2700.galleryofferlist.normal_offer.d_title.697913a01LHWSC&priceId=52afbaf441e749009b5a6feb538b42e2
 
-or any microdisplay with 2.5cm x 1cm screen size aproximately.
+• The "OPTICS HOLDER", a 3D Printed model that holds the optics when you press the holder inside the frames of the glasses.
 
-Over the optics (at the left side of the schematic) you can place any kind of sunglass lens or fotochromatic lens (this is not specified yet but I will make the glasses frames compatible with other generic glasses to make it universally customizable).
 
 ROADMAP:
 
