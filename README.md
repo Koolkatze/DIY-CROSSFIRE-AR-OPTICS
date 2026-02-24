@@ -1,4 +1,6 @@
-AR Optics can be made at home cheap and easy. I will use the highest F.O.V. you will be able to find in any place, no glasses use this fov for now, and DOUBLE MICRODISPLAY for this one.
+AR Optics can be made at home cheap and easy. 
+
+I will use the highest F.O.V. you will be able to find in any place, no glasses use this fov for now, and DOUBLE MICRODISPLAY ON EACH EYE for this one.
 
 DISCLAMER: The scale or size of the piezes can be modified with an even ratio, maybe the size of the display can vary for that same reason. I am still trying to figure out the best way to make the optics and its still not fisically mounted.
 
