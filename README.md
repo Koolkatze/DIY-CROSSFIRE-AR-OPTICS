@@ -1,5 +1,8 @@
 AR Optics can be made at home cheap and easy. 
 
+
+<img width="1920" height="1080" alt="render CROSSFIRE FRAMES" src="https://github.com/user-attachments/assets/dadc8096-0741-4197-ac31-93b9d5b8e839" />
+
 I will use the highest F.O.V. you will be able to find in any place, no glasses use this fov for now, and DOUBLE MICRODISPLAY ON EACH EYE for this one.
 
 DISCLAMER: The scale or size of the piezes can be modified with an even ratio, maybe the size of the display can vary for that same reason. I am still trying to figure out the best way to make the optics and its still not fisically mounted.
@@ -57,7 +60,7 @@ ROADMAP:
 
 3. CREATE A 3D GLASSES FRAME MODEL FOR THE OPTICS TO SIT ON YOUR FACE. ✅ done
 
-4. CREATE A 3D MODEL FOR THE TEMPLES THAT HOLDS THE ELECTRONICS FOR THE DISPLAYS TO WORK.
+4. CREATE A 3D MODEL FOR THE TEMPLES THAT HOLDS THE ELECTRONICS FOR THE DISPLAYS TO WORK. W.I.P (Still need to try if the temples hold well the elecronics).
 
 5. WE WILL HAVE TO DECIDE IF THEY WILL BE STANDALONE OR TETHERED AND TREAT THE SOFTWARE AS WE NEED.
 6. CREATE AN EXTERNAL SOLUTION FOR BATTERY CAPACITY, TO TRY AND EXTEND BATTERY DURING LONG PERIODS OF TIME WHILE IN USE.
