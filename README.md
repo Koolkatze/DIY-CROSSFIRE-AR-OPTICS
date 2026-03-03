@@ -1,7 +1,7 @@
 AR Optics can be made at home cheap and easy. 
 
+<img width="1920" height="1080" alt="render CROSSFIRE FRAMES" src="https://github.com/user-attachments/assets/1aceb778-8447-4f62-a91f-ec8490d5bfcc" />
 
-<img width="1920" height="1080" alt="render CROSSFIRE FRAMES" src="https://github.com/user-attachments/assets/dadc8096-0741-4197-ac31-93b9d5b8e839" />
 
 I will use the highest F.O.V. you will be able to find in any place, no glasses use this fov for now, and DOUBLE MICRODISPLAY ON EACH EYE for this one.
 
@@ -9,7 +9,8 @@ DISCLAMER: The scale or size of the piezes can be modified with an even ratio, m
 
 Experiment under your own financial risk.
 
-https://github.com/Koolkatze/DIY-CROSSFIRE-AR-OPTICS/blob/main/Focal%20point_20260219_190435_0000.png
+<img width="696" height="949" alt="Focal point_20260219_190435_0000" src="https://github.com/user-attachments/assets/0046ef3c-ff79-42a5-a836-5ba12e63f61c" />
+
 
 List of products to build the project:
 
