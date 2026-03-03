@@ -9,8 +9,8 @@ DISCLAMER: The scale or size of the piezes can be modified with an even ratio, m
 
 Experiment under your own financial risk.
 
-[<img width="696" height="949" alt="38611" src="https://github.com/user-attachments/assets/7bc6f5ac-6082-425d-bdf1-2d95fdf9348f" />](https://github.com/Koolkatze/DIY-CROSSFIRE-AR-OPTICS/blob/main/Focal%20point_20260219_190435_0000.png?raw=true)
-
+[[<img width="696" height="949" alt="38611" src="https://github.com/user-attachments/assets/7bc6f5ac-6082-425d-bdf1-2d95fdf9348f" />](https://github.com/Koolkatze/DIY-CROSSFIRE-AR-OPTICS/blob/main/Focal%20point_20260219_190435_0000.png?raw=true)
+](https://github.com/Koolkatze/DIY-CROSSFIRE-AR-OPTICS/blob/main/Focal%20point_20260219_190435_0000.png)
 List of products to build the project:
 
 • The "LENS" is nothing but a transparent 6cm, 8cm, or 9cm diameter christmas ball (the focal point of the sphere is allways at its center so depending in which distance you would like to wear the glasses from the lens to the eyes you will want to choose one of them all, the best diameter afterall could be 9cm, remember: the lens will always need to be stuck ti the left limit of the diagram, that way you won't change the distance and angle of reflection, if you moved the lens to the right of the diagram for what ever reason you would overlap the images of the display) afterwards cut to 4,50cm diameter circle with a mini rotative electric saw or could also be same size transparent glass bulb cut with an electrically or gas heated metal wire and placed under cold water to break evenly as in the following video:
