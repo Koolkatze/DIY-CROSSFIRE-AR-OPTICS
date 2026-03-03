@@ -9,7 +9,7 @@ DISCLAMER: The scale or size of the piezes can be modified with an even ratio, m
 
 Experiment under your own financial risk.
 
-<img width="696" height="949" alt="38611" src="https://github.com/user-attachments/assets/7bc6f5ac-6082-425d-bdf1-2d95fdf9348f" />
+[<img width="696" height="949" alt="38611" src="https://github.com/user-attachments/assets/7bc6f5ac-6082-425d-bdf1-2d95fdf9348f" />](https://github.com/Koolkatze/DIY-CROSSFIRE-AR-OPTICS/blob/main/Focal%20point_20260219_190435_0000.png?raw=true)
 
 List of products to build the project:
 
