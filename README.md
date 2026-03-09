@@ -42,15 +42,12 @@ https://www.alibaba.com/product-detail/1-1-Inch-High-Resolution-Bar_160158021159
 
 • The "OPTICS HOLDER", a 3D Printed model that holds the optics when you press the holder inside the frames of the glasses.
 
-https://github.com/Koolkatze/DIY-CROSSFIRE-AR-OPTICS/blob/main/3D%20PRINTABLE%20CROSSFIRE%20DIY%20OPTICS%20CASE.stl
-
 • The "FRAME" is a 3D printable model able to hold the optics holder and the optics stuck by applying pressure. 
-
-https://github.com/Koolkatze/DIY-CROSSFIRE-AR-OPTICS/blob/main/3D%20Printable%20FRAME%20CROSSFIRE%20DIY%20OPTICS.stl
 
 • The optics rear protector, it can be any transparent material, a glass, cut by WIDTH 4,6cm X HEIGHT 5,1cm and rounded by the corners.
 
-• The "TEMPLES" are 3D printed and hold th electronics of the project, for now it's a work in progress.
+• The "TEMPLES" are 3D printed and hold the electronics of the project, for now I have done a PCB that should act as an image splitter to divide up and down image
+and it´s slave PCB to act as a slave and do the same (I STILL NEED TO VERIFY IT WORKS AS I HAVE TO RECIEVE IT FROM JLCPCB).
 
 
 ROADMAP:
