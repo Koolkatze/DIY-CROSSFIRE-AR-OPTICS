@@ -1,0 +1,40 @@
+Informe de ERC (2026-02-26T18:43:40+0100, codificación UTF8)
+
+***** Hoja /
+[pin_not_connected]: Pin no conectado
+    ; error
+    @(1500 mils, 4250 mils): Symbol #PWR08 Pin 1 [Entrada de alimentación, Línea]
+[power_pin_not_driven]: Pin de entrada de alimentación no conectado a ningún pin de salida
+    ; error
+    @(4200 mils, 4000 mils): Symbol #PWR05 Pin 1 [Entrada de alimentación, Línea]
+[pin_not_connected]: Pin no conectado
+    ; error
+    @(6500 mils, 3850 mils): Symbol U1 Pin 20 [XIN, Entrada, Línea]
+[pin_not_driven]: Pin de entrada no conectado a pin de salida
+    ; error
+    @(6500 mils, 3850 mils): Symbol U1 Pin 20 [XIN, Entrada, Línea]
+[pin_not_connected]: Pin no conectado
+    ; error
+    @(6500 mils, 4250 mils): Symbol U1 Pin 21 [XOUT, Salida, Línea]
+[power_pin_not_driven]: Pin de entrada de alimentación no conectado a ningún pin de salida
+    ; error
+    @(7500 mils, 5200 mils): Symbol #PWR01 Pin 1 [Entrada de alimentación, Línea]
+[no_connect_dangling]: Marca de "no conectado" sin conectar
+    ; warning
+    @(6550 mils, 4550 mils): Sin conectar
+[no_connect_dangling]: Marca de "no conectado" sin conectar
+    ; warning
+    @(8600 mils, 2200 mils): Sin conectar
+[pin_to_pin]: Pines del tipo Bidireccional y Salida de alimentación están conectados
+    ; warning
+    @(9650 mils, 1450 mils): Symbol U4 Pin 3 [~{WP}/IO_{2}, Bidireccional, Línea]
+    @(3550 mils, 4000 mils): Symbol U2 Pin 5 [VOUT, Salida de alimentación, Línea]
+[pin_to_pin]: Pines del tipo Bidireccional y Salida de alimentación están conectados
+    ; warning
+    @(9650 mils, 1550 mils): Symbol U4 Pin 7 [~{HOLD}/~{RESET}/IO_{3}, Bidireccional, Línea]
+    @(3550 mils, 4000 mils): Symbol U2 Pin 5 [VOUT, Salida de alimentación, Línea]
+[no_connect_dangling]: Marca de "no conectado" sin conectar
+    ; warning
+    @(10750 mils, 3500 mils): Sin conectar
+
+**Mensajes ERC: 11. Errores6, Avisos 5

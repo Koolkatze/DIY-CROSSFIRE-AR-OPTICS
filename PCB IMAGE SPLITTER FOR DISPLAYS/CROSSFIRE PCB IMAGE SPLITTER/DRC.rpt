@@ -1,0 +1,285 @@
+** Drc report for CROSSFIRE PCB IMAGE SPLITTER.kicad_pcb **
+** Created on 2026-02-28T10:28:40+0100 **
+
+** Found 71 DRC violations **
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1431 mm)
+    Regla: clase de nodo 'Default'; error
+    @(250,4800 mm, 44,2600 mm): Pad 1 [GND] de R1 en F.Cu
+    @(249,8740 mm, 43,8740 mm): Pista [/UART_TX] en (F.Cu), longitud 0,1782 mm
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1431 mm)
+    Regla: clase de nodo 'Default'; error
+    @(250,4800 mm, 44,2600 mm): Pad 1 [GND] de R1 en F.Cu
+    @(250,0000 mm, 44,0000 mm): Pista [/UART_TX] en (F.Cu), longitud 0,3536 mm
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(254,9250 mm, 20,9070 mm): Pad 24 [GND] de J1 en F.Cu
+    @(254,5750 mm, 20,9070 mm): Pad 22 [unconnected-(J1-Pin_22-Pad22)] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(254,9250 mm, 22,0920 mm): Pad 23 [GND] de J1 en F.Cu
+    @(254,5750 mm, 22,0920 mm): Pad 21 [unconnected-(J1-Pin_21-Pad21)] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(254,5750 mm, 20,9070 mm): Pad 22 [unconnected-(J1-Pin_22-Pad22)] de J1 en F.Cu
+    @(254,2250 mm, 20,9070 mm): Pad 20 [unconnected-(J1-Pin_20-Pad20)] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(254,5750 mm, 22,0920 mm): Pad 21 [unconnected-(J1-Pin_21-Pad21)] de J1 en F.Cu
+    @(254,2250 mm, 22,0920 mm): Pad 19 [unconnected-(J1-Pin_19-Pad19)] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(254,2250 mm, 20,9070 mm): Pad 20 [unconnected-(J1-Pin_20-Pad20)] de J1 en F.Cu
+    @(253,8750 mm, 20,9070 mm): Pad 18 [GND] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(254,2250 mm, 22,0920 mm): Pad 19 [unconnected-(J1-Pin_19-Pad19)] de J1 en F.Cu
+    @(253,8750 mm, 22,0920 mm): Pad 17 [+3.3V] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(253,8750 mm, 20,9070 mm): Pad 18 [GND] de J1 en F.Cu
+    @(253,5250 mm, 20,9070 mm): Pad 16 [+1V8] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(253,8750 mm, 22,0920 mm): Pad 17 [+3.3V] de J1 en F.Cu
+    @(253,5250 mm, 22,0920 mm): Pad 15 [GND] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(253,5250 mm, 20,9070 mm): Pad 16 [+1V8] de J1 en F.Cu
+    @(253,1750 mm, 20,9070 mm): Pad 14 [GND] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(253,5250 mm, 22,0920 mm): Pad 15 [GND] de J1 en F.Cu
+    @(253,1750 mm, 22,0920 mm): Pad 13 [unconnected-(J1-Pin_13-Pad13)] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(253,1750 mm, 20,9070 mm): Pad 14 [GND] de J1 en F.Cu
+    @(252,8250 mm, 20,9070 mm): Pad 12 [unconnected-(J1-Pin_12-Pad12)] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(253,1750 mm, 22,0920 mm): Pad 13 [unconnected-(J1-Pin_13-Pad13)] de J1 en F.Cu
+    @(252,8250 mm, 22,0920 mm): Pad 11 [unconnected-(J1-Pin_11-Pad11)] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(252,8250 mm, 20,9070 mm): Pad 12 [unconnected-(J1-Pin_12-Pad12)] de J1 en F.Cu
+    @(252,4750 mm, 20,9070 mm): Pad 10 [unconnected-(J1-Pin_10-Pad10)] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(252,8250 mm, 22,0920 mm): Pad 11 [unconnected-(J1-Pin_11-Pad11)] de J1 en F.Cu
+    @(252,4750 mm, 22,0920 mm): Pad 9 [GND] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(252,4750 mm, 20,9070 mm): Pad 10 [unconnected-(J1-Pin_10-Pad10)] de J1 en F.Cu
+    @(252,1250 mm, 20,9070 mm): Pad 8 [GND] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(252,4750 mm, 22,0920 mm): Pad 9 [GND] de J1 en F.Cu
+    @(252,1250 mm, 22,0920 mm): Pad 7 [/CS_TOP] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(252,1250 mm, 20,9070 mm): Pad 8 [GND] de J1 en F.Cu
+    @(251,7750 mm, 20,9070 mm): Pad 6 [/SCL] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(252,1250 mm, 22,0920 mm): Pad 7 [/CS_TOP] de J1 en F.Cu
+    @(251,7750 mm, 22,0920 mm): Pad 5 [/DCX_TOP] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(251,7750 mm, 20,9070 mm): Pad 6 [/SCL] de J1 en F.Cu
+    @(251,4250 mm, 20,9070 mm): Pad 4 [/MOSI] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(251,7750 mm, 22,0920 mm): Pad 5 [/DCX_TOP] de J1 en F.Cu
+    @(251,4250 mm, 22,0920 mm): Pad 3 [/RST] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(251,4250 mm, 20,9070 mm): Pad 4 [/MOSI] de J1 en F.Cu
+    @(251,0750 mm, 20,9070 mm): Pad 2 [+3.3V] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(251,4250 mm, 22,0920 mm): Pad 3 [/RST] de J1 en F.Cu
+    @(251,0750 mm, 22,0920 mm): Pad 1 [/TE_TOP] de J1 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(263,4500 mm, 20,9000 mm): Pad 24 [GND] de J2 en F.Cu
+    @(263,1000 mm, 20,9000 mm): Pad 22 [unconnected-(J2-Pin_22-Pad22)] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(263,4500 mm, 22,0850 mm): Pad 23 [GND] de J2 en F.Cu
+    @(263,1000 mm, 22,0850 mm): Pad 21 [unconnected-(J2-Pin_21-Pad21)] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(263,1000 mm, 20,9000 mm): Pad 22 [unconnected-(J2-Pin_22-Pad22)] de J2 en F.Cu
+    @(262,7500 mm, 20,9000 mm): Pad 20 [unconnected-(J2-Pin_20-Pad20)] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(263,1000 mm, 22,0850 mm): Pad 21 [unconnected-(J2-Pin_21-Pad21)] de J2 en F.Cu
+    @(262,7500 mm, 22,0850 mm): Pad 19 [unconnected-(J2-Pin_19-Pad19)] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(262,7500 mm, 20,9000 mm): Pad 20 [unconnected-(J2-Pin_20-Pad20)] de J2 en F.Cu
+    @(262,4000 mm, 20,9000 mm): Pad 18 [GND] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(262,7500 mm, 22,0850 mm): Pad 19 [unconnected-(J2-Pin_19-Pad19)] de J2 en F.Cu
+    @(262,4000 mm, 22,0850 mm): Pad 17 [+3.3V] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(262,4000 mm, 20,9000 mm): Pad 18 [GND] de J2 en F.Cu
+    @(262,0500 mm, 20,9000 mm): Pad 16 [+1V8] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(262,4000 mm, 22,0850 mm): Pad 17 [+3.3V] de J2 en F.Cu
+    @(262,0500 mm, 22,0850 mm): Pad 15 [GND] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(262,0500 mm, 20,9000 mm): Pad 16 [+1V8] de J2 en F.Cu
+    @(261,7000 mm, 20,9000 mm): Pad 14 [GND] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(262,0500 mm, 22,0850 mm): Pad 15 [GND] de J2 en F.Cu
+    @(261,7000 mm, 22,0850 mm): Pad 13 [unconnected-(J2-Pin_13-Pad13)] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(261,7000 mm, 20,9000 mm): Pad 14 [GND] de J2 en F.Cu
+    @(261,3500 mm, 20,9000 mm): Pad 12 [unconnected-(J2-Pin_12-Pad12)] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(261,7000 mm, 22,0850 mm): Pad 13 [unconnected-(J2-Pin_13-Pad13)] de J2 en F.Cu
+    @(261,3500 mm, 22,0850 mm): Pad 11 [unconnected-(J2-Pin_11-Pad11)] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(261,3500 mm, 20,9000 mm): Pad 12 [unconnected-(J2-Pin_12-Pad12)] de J2 en F.Cu
+    @(261,0000 mm, 20,9000 mm): Pad 10 [unconnected-(J2-Pin_10-Pad10)] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(261,3500 mm, 22,0850 mm): Pad 11 [unconnected-(J2-Pin_11-Pad11)] de J2 en F.Cu
+    @(261,0000 mm, 22,0850 mm): Pad 9 [GND] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(261,0000 mm, 20,9000 mm): Pad 10 [unconnected-(J2-Pin_10-Pad10)] de J2 en F.Cu
+    @(260,6500 mm, 20,9000 mm): Pad 8 [GND] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(261,0000 mm, 22,0850 mm): Pad 9 [GND] de J2 en F.Cu
+    @(260,6500 mm, 22,0850 mm): Pad 7 [/CS_BOT] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(260,6500 mm, 20,9000 mm): Pad 8 [GND] de J2 en F.Cu
+    @(260,3000 mm, 20,9000 mm): Pad 6 [/SCL] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(260,6500 mm, 22,0850 mm): Pad 7 [/CS_BOT] de J2 en F.Cu
+    @(260,3000 mm, 22,0850 mm): Pad 5 [/DCX_BOT] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(260,3000 mm, 20,9000 mm): Pad 6 [/SCL] de J2 en F.Cu
+    @(259,9500 mm, 20,9000 mm): Pad 4 [/MOSI] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(260,3000 mm, 22,0850 mm): Pad 5 [/DCX_BOT] de J2 en F.Cu
+    @(259,9500 mm, 22,0850 mm): Pad 3 [/RST] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(259,9500 mm, 20,9000 mm): Pad 4 [/MOSI] de J2 en F.Cu
+    @(259,6000 mm, 20,9000 mm): Pad 2 [+3.3V] de J2 en F.Cu
+[clearance]: Infracción de margen (clase de nodo 'Default' margen 0,2000 mm; real 0,1700 mm)
+    Regla: clase de nodo 'Default'; error
+    @(259,9500 mm, 22,0850 mm): Pad 3 [/RST] de J2 en F.Cu
+    @(259,6000 mm, 22,0850 mm): Pad 1 [/TE_BOT] de J2 en F.Cu
+[holes_co_located]: Orificios taladrados en un mismo lugar
+    Anulación local; warning
+    @(261,2500 mm, 29,8500 mm): Vía [+3.3V] en F.Cu - B.Cu
+    @(261,2500 mm, 29,8500 mm): Vía [+3.3V] en F.Cu - B.Cu
+[holes_co_located]: Orificios taladrados en un mismo lugar
+    Anulación local; warning
+    @(258,0000 mm, 34,0000 mm): Vía [GND] en F.Cu - B.Cu
+    @(258,0000 mm, 34,0000 mm): Vía [GND] en F.Cu - B.Cu
+[holes_co_located]: Orificios taladrados en un mismo lugar
+    Anulación local; warning
+    @(258,0000 mm, 34,0000 mm): Vía [GND] en F.Cu - B.Cu
+    @(258,0000 mm, 34,0000 mm): Vía [GND] en F.Cu - B.Cu
+[holes_co_located]: Orificios taladrados en un mismo lugar
+    Anulación local; warning
+    @(258,0000 mm, 34,0000 mm): Vía [GND] en F.Cu - B.Cu
+    @(258,0000 mm, 34,0000 mm): Vía [GND] en F.Cu - B.Cu
+[holes_co_located]: Orificios taladrados en un mismo lugar
+    Anulación local; warning
+    @(256,5000 mm, 20,2500 mm): Vía [/SCL] en F.Cu - B.Cu
+    @(256,5000 mm, 20,2500 mm): Vía [/SCL] en F.Cu - B.Cu
+[holes_co_located]: Orificios taladrados en un mismo lugar
+    Anulación local; warning
+    @(256,5000 mm, 20,2500 mm): Vía [/SCL] en F.Cu - B.Cu
+    @(256,5000 mm, 20,2500 mm): Vía [/SCL] en F.Cu - B.Cu
+[holes_co_located]: Orificios taladrados en un mismo lugar
+    Anulación local; warning
+    @(256,5000 mm, 20,2500 mm): Vía [/SCL] en F.Cu - B.Cu
+    @(256,5000 mm, 20,2500 mm): Vía [/SCL] en F.Cu - B.Cu
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(253,0000 mm, 21,5000 mm): Reference field of J1
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(261,5250 mm, 21,4930 mm): Reference field of J2
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(250,9900 mm, 45,0800 mm): Reference field of R2
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(249,2500 mm, 60,8400 mm): Reference field of C10
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(256,9675 mm, 60,7800 mm): Reference field of C8
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(256,9675 mm, 58,8100 mm): Reference field of C7
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(254,0975 mm, 64,7200 mm): Reference field of C5
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(254,0975 mm, 62,7500 mm): Reference field of C4
+[silk_over_copper]: Serigrafía recortada por la máscara del soldadura
+    Anulación local; warning
+    @(256,8275 mm, 64,8100 mm): Reference field of C2
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(258,0000 mm, 46,9300 mm): Reference field of J3
+    @(260,5975 mm, 47,1050 mm): Segmento of U4 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(250,9900 mm, 45,0800 mm): Reference field of R2
+    @(250,8364 mm, 44,6400 mm): Segmento of R1 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(261,8875 mm, 60,9750 mm): Segmento of U2 on F.Silkscreen
+    @(260,7500 mm, 61,6400 mm): Reference field of U3
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(256,8597 mm, 58,3600 mm): Segmento of C6 on F.Silkscreen
+    @(256,9675 mm, 58,8100 mm): Reference field of C7
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(254,0975 mm, 64,7200 mm): Reference field of C5
+    @(253,9897 mm, 64,2700 mm): Segmento of C4 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(256,9675 mm, 60,7800 mm): Reference field of C8
+    @(256,8597 mm, 60,3300 mm): Segmento of C7 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(249,2500 mm, 58,8700 mm): Reference field of C9
+    @(247,0900 mm, 58,3600 mm): Segmento of Y1 on F.Silkscreen
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(249,1422 mm, 60,3900 mm): Segmento of C9 on F.Silkscreen
+    @(249,2500 mm, 60,8400 mm): Reference field of C10
+[silk_overlap]: Solapamiento de serigrafía
+    Regla: restricciones de configuración de placa para serigrafía; warning
+    @(254,0975 mm, 62,7500 mm): Reference field of C4
+    @(253,9897 mm, 62,3000 mm): Segmento of C3 on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **
